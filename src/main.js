@@ -8,7 +8,7 @@ Vue.use(Antd);
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyB1IpdwqwEfwDQ3o2qDuAJG3O4Ey0NkYg0',
+    key: 'API_KEY',
     libraries: 'visualization', // This is required if you use the Autocomplete plugin
     // OR: libraries: 'places,drawing'
     // OR: libraries: 'places,drawing,visualization'
